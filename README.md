@@ -2,7 +2,9 @@
  Connect with me
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://https://www.linkedin.com/in/javeria-sehar-9a3493327/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://https://www.linkedin.com/in/
+javeria-sehar-9a3493327
+) 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/https://discord.gg/kbbENzf4) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/lilac.bliss.521416?rdid=4qQWKXMGMmohhnO1&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F19RpG2jbsq%2F#)
 
